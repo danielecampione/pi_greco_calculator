@@ -1,6 +1,6 @@
 # Pi Greco Calculator - JavaFX
 
-Un'applicazione Java 1.8 che fa uso del toolkit JavaFX per il calcolo delle cifre del Pi Greco con interfaccia grafica avanzata e monitoraggio delle risorse di sistema.
+Un'applicazione Java 1.8 che fa uso del toolkit JavaFX per il calcolo delle cifre del Pi Greco con interfaccia grafica avanzata.
 
 ## Caratteristiche
 
