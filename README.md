@@ -10,7 +10,7 @@ Un'applicazione Java 1.8 che fa uso del toolkit JavaFX per il calcolo delle cifr
 
 ### Interfaccia Utente
 - Selezione del metodo di calcolo
-- Impostazione del numero di cifre decimali target (2-30)
+- Impostazione del numero di cifre decimali target (2-100)
 - ✅ **Cancellazione automatica del valore precedente ad ogni calcolo**
 
 ### Screenshot
