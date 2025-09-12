@@ -15,7 +15,7 @@ Un'applicazione Java 1.8 che fa uso del toolkit JavaFX per il calcolo delle cifr
 
 ### Screenshot
 
-![Png](https://i.ibb.co/fV380fc7/Immagine-2025-07-07-230002.png)
+![Png](https://i.ibb.co/ZRtXLdsb/Immagine-2025-09-12-234357.png)
 
 ## Architettura del Progetto
 
