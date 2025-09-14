@@ -33,12 +33,12 @@ This separation makes the code more maintainable and testable.
 ```
 pi_greco_calculator/
 ├── src/
-│   ├── PiGrecoCalculator.java     # Classe principale JavaFX (GUI)
-│   ├── PiCalculator.java          # Motore di calcolo (logica business)
-├── bin/                           # File compilati
-├── .project                       # Configurazione Eclipse
-├── .classpath                     # Classpath Eclipse
-└── README.md                      # Questo file
+│   ├── PiGrecoCalculator.java     # Main JavaFX class (GUI)
+│   ├── PiCalculator.java          # Calculation engine (business logic)
+├── bin/                           # Compiled files
+├── .project                       # Eclipse project configuration
+├── .classpath                     # Eclipse classpath
+└── README.md                      # This file
 ```
 
 
@@ -230,12 +230,12 @@ pi_greco_calculator/
 ```
 pi_greco_calculator/
 ├── src/
-│   ├── PiGrecoCalculator.java     # Classe principale JavaFX (GUI)
-│   ├── PiCalculator.java          # Motore di calcolo (logica business)
-├── bin/                           # File compilati
-├── .project                       # Configurazione Eclipse
-├── .classpath                     # Classpath Eclipse
-└── README.md                      # Questo file
+│   ├── PiGrecoCalculator.java     # 主 JavaFX 类（图形用户界面）
+│   ├── PiCalculator.java          # 计算引擎（业务逻辑）
+├── bin/                           # 已编译文件
+├── .project                       # Eclipse 项目配置
+├── .classpath                     # Eclipse 类路径
+└── README.md                      # 本文件
 ```
 
 ## 系统要求
